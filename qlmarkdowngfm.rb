@@ -1,6 +1,6 @@
 cask "qlmarkdowngfm" do
-  version "1.3.1"
-  sha256 "0095f1eeeb2459cb329af742ba40aaf2cd6a781db663461a6b5038779407facb"
+  version "1.3.2"
+  sha256 "7183527cae1fbac49b584c05976eddf90e0eb713d3adeae8e3ed7ee27881642f"
 
   url "https://github.com/Watson1978/QLMarkdownGFM/releases/download/v#{version}/QLMarkdownGFM.qlgenerator.zip"
   name "QLMarkdownGFM"
